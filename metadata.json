@@ -1,0 +1,5 @@
+{
+  "name": "KDV Beyanname Ayrıştırıcı",
+  "description": "PDF formatındaki KDV beyannamelerinden (1015A) verileri otomatik olarak ayıklar ve Excel formatında listeler. Veriler sunucuya gönderilmez, tarayıcıda işlenir.",
+  "requestFramePermissions": []
+}
